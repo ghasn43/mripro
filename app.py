@@ -114,9 +114,9 @@ if "nav_step" in st.session_state and st.session_state["nav_step"] in (1, 2, 3, 
 # --- EDIT ME: put your real contact details here ---
 OWNER_NAME = "Ghassan Muammar"
 OWNER_COMPANY = "Experts Group FZE"
-OWNER_EMAIL = "your@email.com"         # <-- change
-OWNER_PHONE = "+971-XX-XXX-XXXX"       # <-- change
-OWNER_WEBSITE = ""                     # optional, e.g. "https://expertsgroup.ae"
+OWNER_EMAIL = "info@expertsgroup.me"         # <-- change
+OWNER_PHONE = "+971-50-6690381"       # <-- change
+OWNER_WEBSITE = "www.expertsgroup.me"                     # optional, e.g. "https://expertsgroup.ae"
 
 st.markdown(
     f"""
