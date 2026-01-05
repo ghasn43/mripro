@@ -1,0 +1,7 @@
+streamlit
+numpy
+torch
+torchvision
+matplotlib
+pillow
+h5py
